@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Apple iPhone 15 Pro (128 GB) - Blue Titanium",
+    "price": 134900,
+    "rating": 4.8,
+    "reviewsCount": "1,240",
+    "category": "Electronics",
+    "image": "https://www.93mobiles.com/wp-content/uploads/2026/03/61O3kh6qpvL._SL1500_.jpg",
+    "description": "Experience the ultimate iPhone with a durable and lightweight aerospace-grade titanium design. Features a pro camera system with 48MP main camera and the powerful A17 Pro chip for next-level performance and mobile gaming."
+  },
+  {
+    "id": 2,
+    "title": "Sony WH-1000XM5 Wireless Headphones - Midnight Blue",
+    "price": 29990,
+    "rating": 4.7,
+    "reviewsCount": "4,521",
+    "category": "Electronics",
+    "image": "https://st.gsmarena.com/imgroot/news/23/04/sony-wh-1000xm5-midnight-blue-hands-on/inline/-1200w5/gsmarena_004.jpg",
+    "description": "Industry-leading noise cancellation with two processors controlling 8 microphones. Enjoy exceptional sound quality and crystal-clear hands-free calling with the new Sony WH-1000XM5."
+  },
+  {
+    "id": 3,
+    "title": "Premium Mechanical Keyboard - Ocean Blue",
+    "price": 12900,
+    "rating": 4.9,
+    "reviewsCount": "540",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1595225476474-87563907a212?auto=format&fit=crop&q=80&w=1200",
+    "description": "A high-performance mechanical keyboard with custom-tuned switches and vibrant RGB lighting. Built with a solid aluminum frame for durability and style."
+  },
+  {
+    "id": 4,
+    "title": "Minimalist Smart Watch - Cobalt Blue",
+    "price": 24900,
+    "rating": 4.7,
+    "reviewsCount": "2,340",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=1200",
+    "description": "Stay connected and track your fitness with this sleek, minimalist smart watch. Features heart rate monitoring, GPS, and a stunning AMOLED display."
+  },
+  {
+    "id": 5,
+    "title": "Wireless Ergonomic Mouse - Arctic Blue",
+    "price": 4999,
+    "rating": 4.8,
+    "reviewsCount": "1,120",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&q=80&w=1200",
+    "description": "Designed for comfort and precision, this wireless mouse features an ergonomic shape and customizable buttons. Perfect for long hours of work or play."
+  },
+  {
+    "id": 6,
+    "title": "Men's Slim Fit Polo - Navy Blue",
+    "price": 1999,
+    "rating": 4.6,
+    "reviewsCount": "890",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?auto=format&fit=crop&q=80&w=1200",
+    "description": "A classic slim-fit polo shirt made from premium cotton for a soft and breathable feel. Versatile enough for casual outings or semi-formal events."
+  },
+  {
+    "id": 7,
+    "title": "Unisex Canvas Sneakers - Sky Blue",
+    "price": 3499,
+    "rating": 4.5,
+    "reviewsCount": "1,540",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&q=80&w=1200",
+    "description": "Timeless canvas sneakers with a durable rubber sole. Lightweight and comfortable for everyday wear, featuring a vibrant sky blue color."
+  },
+  {
+    "id": 8,
+    "title": "Modern Ceramic Vase - Royal Blue",
+    "price": 2499,
+    "rating": 4.9,
+    "reviewsCount": "320",
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1581783898377-1c85bf937427?auto=format&fit=crop&q=80&w=1200",
+    "description": "Add a touch of elegance to your home with this handcrafted ceramic vase. Its deep royal blue glaze and modern silhouette make it a perfect centerpiece."
+  },
+  {
+    "id": 9,
+    "title": "Velvet Throw Pillow - Deep Sea Blue",
+    "price": 1299,
+    "rating": 4.7,
+    "reviewsCount": "890",
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?auto=format&fit=crop&q=80&w=1200",
+    "description": "Ultra-soft velvet throw pillow that adds comfort and luxury to any sofa or bed. Features a rich deep sea blue color and high-quality filling."
+  },
+  {
+    "id": 10,
+    "title": "Hydrating Eye Serum - Azure Extract",
+    "price": 1899,
+    "rating": 4.8,
+    "reviewsCount": "2,100",
+    "category": "Beauty",
+    "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=1200",
+    "description": "Revitalize your eyes with our hydrating serum, infused with natural Azure extracts. Reduces puffiness and dark circles for a refreshed look."
+  },
+  {
+    "id": 11,
+    "title": "MacBook Air M2 Laptop - 13.6-inch",
+    "price": 114900,
+    "rating": 4.9,
+    "reviewsCount": "2,105",
+    "category": "Electronics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBZ7KdrqKsNDuF_vQhTGGeWDWmyhe7Zb6t8g&s",
+    "description": "The redesigned MacBook Air with the M2 chip. Incredibly thin and fast, with a brilliant Liquid Retina display and up to 18 hours of battery life."
+  },
+  {
+    "id": 13,
+    "title": "Natural Bamboo Cutting Board Set",
+    "price": 1499,
+    "rating": 4.9,
+    "reviewsCount": "3,400",
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&q=80&w=1200",
+    "description": "Durable and eco-friendly cutting boards made from 100% natural bamboo. Gentle on knives and easy to clean, perfect for any kitchen."
+  },
+  {
+    "id": 14,
+    "title": "Leather Travel Duffel Bag - Dark Brown",
+    "price": 8999,
+    "rating": 4.7,
+    "reviewsCount": "670",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=1200",
+    "description": "Handcrafted from genuine leather, this duffel bag is perfect for weekend getaways. Features a spacious interior and classic vintage design."
+  },
+  {
+    "id": 15,
+    "title": "Cotton Canvas Weekend Tote Bag",
+    "price": 2499,
+    "rating": 4.8,
+    "reviewsCount": "320",
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1544816153-196052127679?auto=format&fit=crop&q=80&w=1200",
+    "description": "A durable and stylish tote bag made from heavy-duty cotton canvas. Spacious enough for all your essentials, with reinforced handles for comfort."
+  }
+]
